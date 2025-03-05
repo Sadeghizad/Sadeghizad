@@ -14,47 +14,48 @@
 
 ###
 
-<br clear="both" style="padding-bottom: 20px;">
+![exp_2](https://github.com/user-attachments/assets/f019cefe-4cb8-4b60-b286-93c7904e408e)
 
-<img align="right" height="170" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+### <img src="bear.webp" width = "40"> About me
+```php 
+namespace Developer;
+$about = [
+  'me🧸' => [
+    'full_name👤' => "Sadeghizad",
+    'hobbies🏓' => ["music","book","podcast","gym","surfing the web"],
+    'language🗣️' => ["English","Persian"],
+    'currently✅'=> Status::STUDYING
+  ],
+  'education🎓' => [
+    'major🧪' => "Computer Science",
+    'university🏫' => "Shahid Beheshti University",
+    'degree🗞️' => "BSc - undergraduate",
+  ]
+];
+```
+### <img src="bear2.webp" width = "40"> My tech stack
+-----------
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![jquery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0773B4)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=268ECC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea&logoColor=F47D19)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+![Composer](https://img.shields.io/badge/Composer-333333?style=flat&logo=composer)
 
-### 
+<p align = "center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sadeghizad&theme=juicyfresh&title=Experience,Commits,Followers,PullRequest,Stars,Repositories"/>
+</p>
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/c/00599C" height="30" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" alt="cplusplus logo"  />
-</div>
-
-### 
-
-<br clear="both">
-
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="email logo"  />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=#9B1CFC" height="27" alt="portfolio logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sadeghizad.Sadeghizad&left_color=black&right_color=blue"  />
+[![](https://komarev.com/ghpvc/?username=Sadeghizad&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)](#)
 
 ###
 
